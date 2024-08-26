@@ -35,7 +35,7 @@ To run the project locally, follow these steps:
 ## Screenshot
 After logging in, you will encounter the homepage of my modest website. It is fully compatible with real-life websites and includes features such as validations, authorizations, security, password reset, email confirmation, profile updates, pagination, and more. If anything is missing, please let me know. I'm sharing a partial screenshot and leaving the rest for you to explore. Please excuse the 'Activate Windows' message.
 
-![Ekran görüntüsü 2024-07-03 221952](https://github.com/gunsugunaydin/Twids/assets/110038957/03b30c8d-ed21-49d0-a2a0-8d43d8a4c141)
+![Ekran görüntüsü 2024-07-03 221952](https://github.com/user-attachments/assets/ca8e7c29-30f5-4654-b237-28ab306a96aa)
 
   Homepage Screenshot
 
