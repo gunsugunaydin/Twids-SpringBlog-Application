@@ -1,4 +1,4 @@
-# Twids SpringBlog Application
+# Twids SpringBlog Application <img src="https://media.tenor.com/SDlVIH5za9EAAAAM/peach-and.gif" alt="Waving Hand" width="50" height="50">
 
 **Twids** is a full-stack web application developed using Java and the Spring Framework. The project follows a monolithic architecture, with a user-friendly interface built using HTML, CSS, Bootstrap, and JavaScript. On the backend, it utilizes Spring Boot framework and integrates an in-memory H2 Database. This blog application allows users to create, share and manage posts. 
 
