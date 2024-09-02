@@ -24,7 +24,7 @@ To run the project locally, follow these steps:
 2. *Installation Steps:*
 
    ```bash
-   git clone https://github.com/gunsugunaydin/Twids.git
+   git clone https://github.com/gunsugunaydin/Twids-SpringBlog-Application.git
    cd Twids
    mvn clean install
    java -jar target/SpringStarter-0.0.1-SNAPSHOT.jar
