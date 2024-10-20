@@ -39,3 +39,16 @@ After logging in, you will encounter the homepage of my modest website. It is fu
 
   Homepage Screenshot
 
+## Demo
+
+**Oops, I did it again...** Couldn't wait! 😅 I made some quick videos to showcase my website's functionality. Check them out! The demo is divided into two parts:
+
+### Part 1:
+
+https://github.com/user-attachments/assets/24cdc0a3-40ef-4568-9b96-caa43db603ce
+
+### Part 2:
+
+https://github.com/user-attachments/assets/ab36fd4e-3a51-4b27-ad3b-c5e968f4258b
+
+
