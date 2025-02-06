@@ -51,6 +51,7 @@ https://github.com/user-attachments/assets/6b242e60-1423-4f80-9e47-dcfbe04a0738
 
 https://github.com/user-attachments/assets/2d3fa855-77c2-4247-a7b9-4335ba519d91
 
+<br>
 
 <img src="https://media.tenor.com/O1Zk8YvgJ-EAAAAi/peach-goma-peach.giff" alt="Get in Touch Gif" width="50" height="50">I'm always open to feedback, suggestions. If you'd like to reach out, feel free to connect with me through the following channels:
 
