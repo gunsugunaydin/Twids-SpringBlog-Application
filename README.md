@@ -14,7 +14,7 @@
 To run the project locally, follow these steps:
 
 1. *Prerequisites:*
-   - Java JDK 17(or higher)
+   - Java JDK 17
    - Maven 3.x
 
 2. *Installation Steps:*
@@ -23,7 +23,7 @@ To run the project locally, follow these steps:
    git clone https://github.com/gunsugunaydin/Twids-SpringBlog-Application.git
    cd Twids
    mvn clean install
-   java -jar target/SpringStarter-0.0.1-SNAPSHOT.jar
+   mvn spring-boot:run
    
 3. *Usage:*
    Once the application has started successfully, you can start using it by navigating to http://localhost:8080 in your browser.
