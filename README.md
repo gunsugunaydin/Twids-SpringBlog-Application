@@ -9,10 +9,6 @@
 - *Database:* H2 Database (in-memory)
 - *Other Libraries:* Thymeleaf, Lombok, Spring Boot Validation, Apache Commons Lang
 
-## Purpose and Roadmap
-
-The project aims to develop a secure, performant web application that is easy to use for its users. Currently in a monolithic structure, future plans include transitioning to a microservices architecture by adding RESTful APIs.
-
 ## Installation and Usage
 
 To run the project locally, follow these steps:
