@@ -49,7 +49,7 @@ https://github.com/user-attachments/assets/2d3fa855-77c2-4247-a7b9-4335ba519d91
 
 <br>
 
-<img src="https://media.tenor.com/e9PE4UPR9ZQAAAAj/waiting-for-u-peach.gif" alt="Get in Touch Gif" width="50" height="50">I'm always open to feedback, suggestions. If you'd like to reach out, feel free to connect with me through the following channels:
+<img src="https://media.tenor.com/eJdAzjdhWFUAAAAj/cute.gif" alt="Get in Touch Gif" width="50" height="50">I'm always open to feedback, suggestions. If you'd like to reach out, feel free to connect with me through the following channels:
 
 - **Email**: [gunsugunay98@gmail.com](mailto:gunsugunay98@gmail.com)
 - **LinkedIn**: [linkedin.com/in/gunsugunaydin](https://www.linkedin.com/in/gunsugunaydin/)
